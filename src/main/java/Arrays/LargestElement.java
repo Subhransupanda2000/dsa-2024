@@ -1,7 +1,7 @@
 package Arrays;
 
 public class LargestElement {
-    public static int largestElement(int arr []) {
+    public static int largestElement(int arr[]) {
         int largest = arr[0];
         for (int i = 0; i < arr.length; i++) {
 
