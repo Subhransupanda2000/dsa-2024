@@ -1,4 +1,4 @@
-package com.example.Arrays;
+package com.example.array;
 
 public class LargestElement {
     public static int largestElement(int arr[]) {
