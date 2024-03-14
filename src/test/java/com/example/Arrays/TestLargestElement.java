@@ -1,4 +1,6 @@
-import Arrays.LargestElement;
+package com.example.Arrays;
+
+import com.example.Arrays.LargestElement;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertEquals;
